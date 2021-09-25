@@ -23,7 +23,7 @@ I'm a developer from the core, so continuous learning is something that I never 
 <kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></kbd>&nbsp;
 <kbd><img height="45" width="45" src="http://www.codebind.com/wp-content/uploads/2016/09/SQLite-623x381.jpg"></kbd>&nbsp;
 <kbd><img height="45" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png"></kbd>&nbsp;
-<kbd><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></kbd>&nbsp;
+<kbd><img height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></kbd>&nbsp;
 <kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/4e78b534204b949518e0115bef9fee5194dcb152/topics/cordova/cordova.png"></kbd>&nbsp;
 <kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></kbd>&nbsp;
 <br>
