@@ -21,14 +21,16 @@ I'm a developer from the core, so continuous learning is something that I never 
 <kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></kbd>&nbsp;
 <kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></kbd>&nbsp;
 <kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></kbd>&nbsp;
+<kbd><img height="45" src="http://www.codebind.com/wp-content/uploads/2016/09/SQLite-623x381.jpg"></kbd>&nbsp;
 <kbd><img height="45" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png"></kbd>&nbsp;
+<kbd><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></kbd>&nbsp;
 <kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/4e78b534204b949518e0115bef9fee5194dcb152/topics/cordova/cordova.png"></kbd>&nbsp;
 <kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></kbd>&nbsp;
 <br>
 
 ### 📖 &nbsp;Contributions
 
-<a href="https://stackexchange.com/users/12792388"><img src="https://stackexchange.com/users/flair/12792388.png?theme=clean" width="208" height="58" alt="profile for Ashish gaikwad on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Ashish Gaikwad on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackexchange.com/users/12792388/ashish"><img src="https://stackexchange.com/users/flair/12792388.png" width="208" height="58" alt="profile for Ashish on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Ashish on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishgkwd534&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ashish's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishgkwd534&layout=compact&theme=buefy&hide_border=true&cache_seconds=1800" /> |
 | ------------- | ------------- |
