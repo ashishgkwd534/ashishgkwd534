@@ -30,7 +30,7 @@ I'm a developer from the core, so continuous learning is something that I never 
 
 ### 📖 &nbsp;Contributions
 
-<a href="https://stackexchange.com/users/12792388/ashish"><img src="https://stackexchange.com/users/flair/12792388.png" width="208" height="58" alt="profile for Ashish on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Ashish on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<a href="https://stackoverflow.com/users/9256497/ashish"><img src="https://stackoverflow.com/users/flair/9256497.png" width="208" height="58" alt="profile for Ashish at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ashish at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishgkwd534&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ashish's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishgkwd534&layout=compact&theme=buefy&hide_border=true&cache_seconds=1800" /> |
 | ------------- | ------------- |
