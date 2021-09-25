@@ -11,3 +11,17 @@ I'm a developer from the core, so continuous learning is something that I never 
 - Peer review my team's code and spot things without running
 - Share my knowledge (it doesn't matter if they are a fresher)
 - Contribute to open source community	
+<br>
+
+### 🛠 &nbsp;Tools & Technologies
+
+<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></kbd>&nbsp;
+<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></kbd>&nbsp;
+<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></kbd>&nbsp;
+<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></kbd>&nbsp;
+<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></kbd>&nbsp;
+<kbd><img height="45" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png"></kbd>&nbsp;
+<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/4e78b534204b949518e0115bef9fee5194dcb152/topics/cordova/cordova.png"></kbd>&nbsp;
+<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></kbd>&nbsp;
+<kbd><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></kbd>&nbsp;
+
