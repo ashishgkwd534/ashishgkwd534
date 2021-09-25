@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**ashishgkwd534/ashishgkwd534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a align="center" href="www.linkedin.com/in/the-ashish-gaikwad/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="80px"></a> &nbsp; ![](https://komarev.com/ghpvc/?username=ashishgkwd534&color=green)
 
-Here are some ideas to get you started:
+Serial entrepreneur. 3+ years of hands-on experience developing a product/platform from scratch. For me, any or every code written (even test code) must be optimised for formatting, standard, performance, reusability and scalability (I know it's too much). I enforce this in day to day development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a developer from the core, so continuous learning is something that I never miss. My playground:
+
+- Design & develop complex yet user-friendly applications
+- Find solutions to complex & challenging problems
+- Peer review my team's code and spot things without running
+- Share my knowledge (it doesn't matter if they are a fresher)
+- Contribute to open source community	
