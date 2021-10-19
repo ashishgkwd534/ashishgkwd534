@@ -34,3 +34,6 @@ I'm a developer from the core, so continuous learning is something that I never 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishgkwd534&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ashish's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishgkwd534&layout=compact&theme=buefy&hide_border=true&cache_seconds=1800" /> |
 | ------------- | ------------- |
+
+### Top Repo
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)| ------------- |
