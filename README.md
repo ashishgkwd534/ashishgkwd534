@@ -32,9 +32,6 @@ I'm a developer from the core, so continuous learning is something that I never 
 
 <a href="https://stackoverflow.com/users/9256497/ashish"><img src="https://stackoverflow.com/users/flair/9256497.png" width="208" height="58" alt="profile for Ashish at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ashish at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishgkwd534&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ashish's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishgkwd534&layout=compact&theme=buefy&hide_border=true&cache_seconds=1800" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishgkwd534&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Ashish's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishgkwd534&layout=compact&theme=buefy&hide_border=true&cache_seconds=1800" /> |
 | ------------- | ------------- |
 
-### Top Repo
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashishgkwd534&repo=cooee-android-sdk)](https://github.com/letscooee/cooee-android-sdk) | ------------- |
-| ------------- | ------------- |
