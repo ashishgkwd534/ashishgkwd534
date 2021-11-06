@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ashish Gaikwad</h1>
 <h3 align="center">A Android developer from India</h3>
 
-<a align="center" href="https://www.linkedin.com/in/the-ashish-gaikwad/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="80px"></a> &nbsp; ![](https://komarev.com/ghpvc/?username=ashishgkwd534&color=green)
+<a align="center" href="https://www.linkedin.com/in/the-ashish-gaikwad/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="80px"></a> &nbsp; 
+<a href="https://dev.to/ashishgkwd534" target="_blank">
+<img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="devto" style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/9256497/ashish" target="_blank">
+<img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  ![](https://komarev.com/ghpvc/?username=ashishgkwd534&color=green)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishgkwd534" alt="ashishgkwd534" /></a> </p>
 
-- 🔭 I’m currently working on [Cooee Android SDK](https://github.com/letscooee/cooee-android-sdk)
-
+- 🔭 I’m currently working with **[@letscooee](https://github.com/letscooee)**
 - 🌱 I’m currently learning **Flutter, React-Native**
 
-- 👯 I’m looking to collaborate on [Cooee Flutter Plugin](https://github.com/letscooee/cooee-flutter-plugin)
+- 👯 I’m looking to collaborate on Android Public Repositaries
 
-- 🤝 I’m looking for help with [Cooee iOS SDK](https://github.com/letscooee/cooee-ios-sdk)
-
-- 👨‍💻 All of my projects are available at [https://github.com/ashishgkwd534](https://github.com/ashishgkwd534)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/ashishgkwd534)
 
 - 💬 Ask me about **Java, Kotlin, Android**
 
